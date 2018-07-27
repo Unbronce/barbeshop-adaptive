@@ -1,0 +1,24 @@
+{
+  "name": "barbeshop-adaptive",
+  "version": "1.0.0",
+  "description": "barbeshop-adaptive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./pages/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unbronce/barbeshop-adaptive.git"
+  },
+  "author": "Yaroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unbronce/barbeshop-adaptive/issues"
+  },
+  "homepage": "https://github.com/Unbronce/barbeshop-adaptive#readme",
+  "devDependencies": {
+    "cssnano": "^4.0.4",
+    "node-sass": "^4.9.2"
+  }
+}
